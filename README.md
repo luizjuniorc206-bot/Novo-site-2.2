@@ -1,50 +1,30 @@
-# Marca Forte - Marcação e Regularização Bovina
+# MARCA FORTE - Marcação e Regularização Bovina
 
 Site profissional otimizado para SEO, conversão e Google Ads.
 
-## 🚀 Recursos
+## 🎯 Características
 
-- ✅ SEO Técnico Completo
-- ✅ Schema Markup LocalBusiness
-- ✅ Integração com Gemini AI
-- ✅ Responsivo e Mobile First
-- ✅ Otimizado para Vercel
-- ✅ CTAs com WhatsApp
-- ✅ Blog Otimizado
+- ✅ SEO Completo (Meta tags, Schema Markup, Sitemap)
+- ✅ Mobile First Responsivo
+- ✅ Integração Gemini AI para busca de veterinários
+- ✅ WhatsApp Integration
+- ✅ Google Ads Optimized
 - ✅ LGPD Compliant
+- ✅ Pronto para Vercel
 
-## 📋 Instalação
+## 🚀 Deployment
 
 ```bash
 npm install
+npm start
 ```
 
-## 🔑 Variáveis de Ambiente
-
-Crie um arquivo `.env` com:
-
-```
-GEMINI_API_KEY=sua_chave_aqui
-```
-
-## 🏃 Executar Localmente
-
+Para Vercel:
 ```bash
-npm run dev
+vercel --prod
 ```
 
-## 📦 Deploy Vercel
+## 📱 Contato
 
-```bash
-npm install -g vercel
-vercel
-```
-
-## 📞 Contato
-
-WhatsApp: https://wa.me/5538997221779
-Instagram: https://www.instagram.com/marcaforteoficial/
-
-## 📄 Licença
-
-MIT
+- WhatsApp: https://wa.me/5538997221779
+- Instagram: https://www.instagram.com/marcaforteoficial/
